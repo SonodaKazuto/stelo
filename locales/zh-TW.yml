@@ -1,0 +1,14 @@
+button:
+  about: 關於
+  back: 返回
+  go: 確定
+  home: 首頁
+  toggle_dark: 切換深色模式
+  toggle_langs: 切換語言
+intro:
+  desc: 擇善固執的 Vite 項目模板
+  dynamic-route: 動態路由演示
+  hi: 你好，{name}
+  aka: 也叫
+  whats-your-name: 輸入你的名字
+not-found: 未找到頁面
