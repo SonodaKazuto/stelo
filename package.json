@@ -34,6 +34,7 @@
     "@types/nprogress": "^0.2.0",
     "@vitejs/plugin-vue": "^4.0.0",
     "@vue-macros/volar": "^0.8.0",
+    "@vue/compiler-dom": "^3.2.45",
     "@vue/test-utils": "^2.2.8",
     "critters": "^0.0.16",
     "cross-env": "^7.0.3",
