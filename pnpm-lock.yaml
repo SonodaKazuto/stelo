@@ -15,7 +15,7 @@ specifiers:
   '@vueuse/head': ^1.0.24
   critters: ^0.0.16
   cross-env: ^7.0.3
-  cypress: ^12.4.1
+  cypress: ^12.5.0
   eslint: ^8.33.0
   eslint-plugin-cypress: ^2.12.1
   https-localhost: ^4.7.1
@@ -23,7 +23,7 @@ specifiers:
   markdown-it-shiki: ^0.7.2
   nprogress: ^0.2.0
   pinia: ^2.0.29
-  pnpm: ^7.26.2
+  pnpm: ^7.26.3
   shiki: ^0.14.0
   taze: ^0.8.5
   typescript: ^4.9.5
@@ -71,13 +71,13 @@ devDependencies:
   '@vue/test-utils': 2.2.8_o3nmwetfthgqihjljurbyiqgn4
   critters: 0.0.16
   cross-env: 7.0.3
-  cypress: 12.4.1
+  cypress: 12.5.0
   eslint: 8.33.0
   eslint-plugin-cypress: 2.12.1_eslint@8.33.0
   https-localhost: 4.7.1
   markdown-it-link-attributes: 4.0.1
   markdown-it-shiki: 0.7.2
-  pnpm: 7.26.2
+  pnpm: 7.26.3
   shiki: 0.14.0
   taze: 0.8.5
   typescript: 4.9.5
@@ -4130,8 +4130,8 @@ packages:
   /csstype/2.6.20:
     resolution: {integrity: sha512-/WwNkdXfckNgw6S5R125rrW8ez139lBHWouiBvX8dfMFtcn6V81REDqnH7+CRpRipfYlyU1CmOnOxrmGcFOjeA==}
 
-  /cypress/12.4.1:
-    resolution: {integrity: sha512-IFMPzc1RJ22Fac+YbdqywtpcuqZXqQJh+JqZDXn+A15zG/dw99njfv8f0bTvD+WAHhP118+xWG/VwilkFg1rnA==}
+  /cypress/12.5.0:
+    resolution: {integrity: sha512-CRo1DIr0LoCE3SNb/kJ0TZM9dIdiy7fNlRp/YoPfAv+XOKZV27LQ7zZUi4lMmHIEo3K0dAN5+tJ/8eZc/Jmbyg==}
     engines: {node: ^14.0.0 || ^16.0.0 || >=18.0.0}
     hasBin: true
     requiresBuild: true
@@ -7843,8 +7843,8 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /pnpm/7.26.2:
-    resolution: {integrity: sha512-Ywwh8puMMJQDO0kX4gxW9yBdbYISt3B6IfekexzWIium5wmpopAHMUpLuxRac5U5AAIIvt4ZQntWy6VcXs0iEg==}
+  /pnpm/7.26.3:
+    resolution: {integrity: sha512-Q/McJBmWoVmHMn5Nzf8Ty3gCPeOqq4fFbIP07Cg4Ygkvk01yu9LdXagydEHuvYIq0c/yU9+7EKeppUuuw1OX6Q==}
     engines: {node: '>=14.6'}
     hasBin: true
     dev: true
