@@ -36,7 +36,7 @@ specifiers:
   vite-plugin-pages: ^0.28.0
   vite-plugin-pwa: ^0.14.1
   vite-plugin-vue-component-preview: ^0.3.4
-  vite-plugin-vue-inspector: ^3.3.0
+  vite-plugin-vue-inspector: ^3.3.1
   vite-plugin-vue-layouts: ^0.7.0
   vite-plugin-vue-markdown: ^0.22.2
   vite-ssg: ^0.22.1
@@ -90,7 +90,7 @@ devDependencies:
   vite-plugin-pages: 0.28.0_vite@4.1.1
   vite-plugin-pwa: 0.14.1_vite@4.1.1
   vite-plugin-vue-component-preview: 0.3.4_vite@4.1.1
-  vite-plugin-vue-inspector: 3.3.0_vite@4.1.1
+  vite-plugin-vue-inspector: 3.3.1_vite@4.1.1
   vite-plugin-vue-layouts: 0.7.0_fmudivyuqogzrsdw3ssoqrxof4
   vite-plugin-vue-markdown: 0.22.2_vite@4.1.1
   vite-ssg: 0.22.1_k42kzkth2lcwfve3mj5izy7otu
@@ -258,7 +258,7 @@ packages:
       '@babel/helper-compilation-targets': 7.20.7_@babel+core@7.20.12
       '@babel/helper-module-transforms': 7.20.11
       '@babel/helpers': 7.20.7
-      '@babel/parser': 7.20.7
+      '@babel/parser': 7.20.13
       '@babel/template': 7.20.7
       '@babel/traverse': 7.20.12
       '@babel/types': 7.20.7
@@ -533,14 +533,6 @@ packages:
     hasBin: true
     dependencies:
       '@babel/types': 7.20.7
-
-  /@babel/parser/7.20.7:
-    resolution: {integrity: sha512-T3Z9oHybU+0vZlY9CiDSJQTD5ZapcW18ZctFMi0MOAl/4BjFF4ul7NVSARLdbGO5vDqy9eQiGTV0LtKfvCYvcg==}
-    engines: {node: '>=6.0.0'}
-    hasBin: true
-    dependencies:
-      '@babel/types': 7.20.7
-    dev: true
 
   /@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/7.18.6_@babel+core@7.20.12:
     resolution: {integrity: sha512-Dgxsyg54Fx1d4Nge8UnvTrED63vrwOdPmyvPzlNN/boaliRP54pm3pGzZD1SJUwrBA+Cs/xdG8kXX6Mn/RfISQ==}
@@ -9648,8 +9640,8 @@ packages:
       - vite
     dev: true
 
-  /vite-plugin-vue-inspector/3.3.0_vite@4.1.1:
-    resolution: {integrity: sha512-X1078pOP5FF+b9XjTgsFmDgyNsAci2WNS+yZ+Af3ARWFwPQqyyIjmThTAfZdmJ1SAyCMw1A55sv60Yl0ZoCyXQ==}
+  /vite-plugin-vue-inspector/3.3.1_vite@4.1.1:
+    resolution: {integrity: sha512-kq4Dum8AdgfU4574/mb1zgeM334OXWNwGCZae6Sa4Bvzj2iLe0u3lYhZq4NQYQRmknIBt7hXODP56TwpiSLFeg==}
     peerDependencies:
       vite: ^3.0.0-0 || ^4.0.0-0
     dependencies:
