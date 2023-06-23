@@ -65,5 +65,8 @@
     "vite-ssg-sitemap": "^0.4.3",
     "vitest": "^0.29.3",
     "vue-tsc": "^1.2.0"
+  },
+  "volta": {
+    "node": "20.3.1"
   }
 }
